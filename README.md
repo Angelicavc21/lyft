@@ -5,8 +5,9 @@
 Hemos creado este repositorio boilerplate (plantilla
 inicial).
 
-## Flujo de trabajo
-Hemos creado9 un __header__
+## Procedimiento de trabajo
+Hemos creado un `index.html`donde contiene `header´
+y para crear cada parte de nuestra página lo hemos hecho con 5 `section` que contienen 4 `div` aproximadamente
 
 
 
