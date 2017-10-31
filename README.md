@@ -1,6 +1,6 @@
 # Lyft
 
-***
+---
 
 Hemos creado este repositorio boilerplate (plantilla
 inicial).
@@ -24,5 +24,15 @@ Utilizamos estos siguientes colores que nos brindaron:
   - Texto del formulario: `#728099`
   - Gradiente morado: `linear-gradient(#76278F, #2B1E66);`
 
-Nuestro resultado fue el siguiente:
+Nuestro resultado es el siguiente:
+
+
+
+
+
+
+
+##### PARTICIPANTES:
+##### - Diana Huamanchay
+##### - Angelica Villalobos
 
